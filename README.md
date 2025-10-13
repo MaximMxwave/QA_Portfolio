@@ -39,7 +39,8 @@
 - [🔌 API Postman](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Postman)
 - [📱 Mobile Testing Android Studio](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Mobile_testing)
 - [📊 Logs and Metrics (Grafana, Kibana)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Logs_and_Metrics)
-- [💬 Messaging (Kafka)](./Messaging)
+- [💬 Kafka and Jeager](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Kafka_Jaeger)
+- [🤖🧪 Autotests](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Autotests)
 
 ## 🖼️ Примеры (встраиваемые)
 *(попробуй добавить сюда свои скриншоты — изображения будут видны прямо на странице)*
