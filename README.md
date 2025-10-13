@@ -19,36 +19,41 @@
 - [💬 Kafka and Jeager](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Kafka_Jaeger)
 - [🤖🧪 Autotests](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Autotests)
 
-## 🖼️ Примеры (встраиваемые)
-*(попробуй добавить сюда свои скриншоты — изображения будут видны прямо на странице)*
+#### ℹ️ Как просматривать
+Нажми на нужную папку, например `Test-cases` — внутри будут файлы и скриншоты.
 
-![Example MongoDB query](DataBase/mongodb_query.png)
-![Example Postman request](API/postman_request.png)
-![Example Grafana dashboard](Observability/grafana_dashboard.png)
+## 📸 Скриншоты
+
+#### Check-list
+![Check-lists](https://github.com/MaximMxwave/QA_Portfolio/blob/main/Test_documentation/Checklists/checklist_ice_cream.jpg)
+
+#### Test-cases
+![Test-case](https://github.com/MaximMxwave/QA_Portfolio/blob/main/Test_documentation/Test_Cases/test_cases.jpg)
+
+#### Bug-report
+![Bug-report](https://github.com/MaximMxwave/QA_Portfolio/blob/main/Test_documentation/Bug_reports/api.png)
+
+#### Postman
+![Postman request](https://github.com/MaximMxwave/QA_Portfolio/blob/main/Postman/Postman.jpg)
+
+#### DBeaver
+![DBeaver](https://github.com/MaximMxwave/QA_Portfolio/blob/main/Data_Base/DBeaver.png)
+
+#### Mobile testing
+![Mobile](https://github.com/MaximMxwave/QA_Portfolio/blob/main/Mobile_testing/debug_app.png)
+
+#### Autotest
+![Autotest](https://github.com/MaximMxwave/QA_Portfolio/blob/main/Autotests/hooks.jpg)
 
 ---
 
-## 🧰 Инструменты
+## 🛠 Инструменты
 `Jira` · `Confluence` · `Postman` · `DBeaver` · `MongoDB` · `Redis` · `Kafka` · `Android Studio` · `Grafana` · `Jaeger` · `Kibana` · `Git`
 
----
+**👤 Автор:**
 
-## 📎 Полезные файлы
-- `TestDocumentation/Checklists/` — чек-листы  
-- `TestDocumentation/TestCases/` — тест-кейсы  
-- `TestDocumentation/BugReports/` — баг-репорты  
-- `API/postman_collection.json` — экспорт Postman коллекции (можно импортировать)
+Максим Олесов ([@Mxwave](https://t.me/Mxwave))
 
----
-
-## 📬 Контакты
-Telegram: [@Mxwave](https://t.me/)  
-Email: *укажи здесь свой email, если хочешь*
-
----
-
-## ℹ️ Как просматривать
-1. Нажми на нужную папку (например `TestDocumentation/TestCases`) — внутри будут файлы и скриншоты.  
-2. Чтобы картинки отображались прямо в README, положи их в упомянутые папки и обнови пути в этом файле.
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Made%20by-Maxim%20Olesov-blue?style=for-the-badge&logo=github" alt="Made by Maxim Olesov" />
+</p>
