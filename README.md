@@ -32,7 +32,7 @@
 
 ## 📂 Структура портфолио
 
-- [📋 Checklists](./Checklists)
+- [📋 Checklists](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Checklists)
 - [✅ Test Cases](./TestCases)
 - [🐞 Bug Reports](./BugReports)
 - [🗄️ DataBase (MongoDB, Redis, DBeaver)](./DataBase)
