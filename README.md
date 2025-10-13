@@ -35,7 +35,7 @@
 - [📋 Checklists](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Checklists)
 - [✅ Test-cases](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Test_Cases)
 - [🐞 Bug-reports](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Bug_reports)
-- [🗄️ DataBase (MongoDB, Redis, DBeaver)](./DataBase)
+- [🗄️ Data Base (MongoDB, Redis, DBeaver)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Data_Base)
 - [🔌 API (Postman)](./API)
 - [📱 Mobile Testing (Android Studio)](./Mobile)
 - [📊 Observability (Grafana, Jaeger, Kibana)](./Observability)
