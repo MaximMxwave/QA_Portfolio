@@ -17,8 +17,6 @@
 
 ## 📂 Структура репозитория
 
-
-- [📋 Checklists](./Checklists)
 - `Test_documentation/` — тестовая документация  
   - `Test_documentation/Checklists/` — чек-листы (JPG)  
   - `Test_documentation/Test_Cases/` — тест-кейсы (PNG, JPG) 
