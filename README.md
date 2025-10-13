@@ -36,7 +36,7 @@
 - [✅ Test-cases](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Test_Cases)
 - [🐞 Bug-reports](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Bug_reports)
 - [🗄️ Data Base (MongoDB, Redis, DBeaver)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Data_Base)
-- [🔌 API (Postman)](./API)
+- [🔌 API Postman](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Postman)
 - [📱 Mobile Testing (Android Studio)](./Mobile)
 - [📊 Observability (Grafana, Jaeger, Kibana)](./Observability)
 - [💬 Messaging (Kafka)](./Messaging)
