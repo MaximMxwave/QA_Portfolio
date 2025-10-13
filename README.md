@@ -30,6 +30,17 @@
 
 ---
 
+## 📂 Структура портфолио
+
+- [📋 Checklists](./Checklists)
+- [✅ Test Cases](./TestCases)
+- [🐞 Bug Reports](./BugReports)
+- [🗄️ DataBase (MongoDB, Redis, DBeaver)](./DataBase)
+- [🔌 API (Postman)](./API)
+- [📱 Mobile Testing (Android Studio)](./Mobile)
+- [📊 Observability (Grafana, Jaeger, Kibana)](./Observability)
+- [💬 Messaging (Kafka)](./Messaging)
+
 ## 🖼️ Примеры (встраиваемые)
 *(попробуй добавить сюда свои скриншоты — изображения будут видны прямо на странице)*
 
