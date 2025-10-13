@@ -54,7 +54,7 @@
 ---
 
 ## 📬 Контакты
-Telegram: [@Jzvvvtg](https://t.me/)  
+Telegram: [@JMxwave](https://t.me/)  
 Email: *укажи здесь свой email, если хочешь*
 
 ---
