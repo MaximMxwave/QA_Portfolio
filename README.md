@@ -32,13 +32,13 @@
 
 ## 📂 Структура портфолио
 
-- [📋 Checklists](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Checklists)
+- [📋 Check-lists](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Checklists)
 - [✅ Test-cases](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Test_Cases)
 - [🐞 Bug-reports](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Bug_reports)
 - [🗄️ Data Base (MongoDB, Redis, DBeaver)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Data_Base)
 - [🔌 API Postman](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Postman)
-- [📱 Mobile Testing (Android Studio)](./Mobile)
-- [📊 Observability (Grafana, Jaeger, Kibana)](./Observability)
+- [📱 Mobile Testing Android Studio](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Mobile_testing)
+- [📊 Logs and Metrics (Grafana, Kibana)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Logs_and_Metrics)
 - [💬 Messaging (Kafka)](./Messaging)
 
 ## 🖼️ Примеры (встраиваемые)
