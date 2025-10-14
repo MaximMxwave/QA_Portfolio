@@ -9,7 +9,7 @@
 
 ## 📂 Структура портфолио
 
-[📋 Check-lists](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Checklists)<br>
+[📋 Checklists](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Checklists)<br>
 [✅ Test-cases](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Test_Cases)<br>
 [🐞 Bug-reports](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Bug_reports)<br>
 [🗄️ Data Base (MongoDB, Redis, DBeaver)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Data_Base)<br>
