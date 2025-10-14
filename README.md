@@ -49,7 +49,7 @@
 ---
 
 ## 🛠 Инструменты
-`Jira` · `Confluence` · `Postman` · `DBeaver` · `MongoDB` · `Redis` · `Kafka` · `Android Studio` · `Grafana` · `Jaeger` · `Kibana` · `Git`
+`Jira` · `Confluence` · `Postman` · `DBeaver` · `MongoDB` · `Redis` · `Kafka` · `Android Studio` · `Grafana` · `Jaeger` · `Kibana`
 
 **👤 Автор:**
 
