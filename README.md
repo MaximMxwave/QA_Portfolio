@@ -9,15 +9,15 @@
 
 ## 📂 Структура портфолио
 
-- [📋 Check-lists](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Checklists)
-- [✅ Test-cases](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Test_Cases)
-- [🐞 Bug-reports](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Bug_reports)
-- [🗄️ Data Base (MongoDB, Redis, DBeaver)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Data_Base)
-- [🔌 API Postman](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Postman)
-- [📱 Mobile Testing Android Studio](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Mobile_testing)
-- [📊 Logs and Metrics (Grafana, Kibana)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Logs_and_Metrics)
-- [💬 Kafka and Jeager](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Kafka_Jaeger)
-- [🤖🧪 Autotests](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Autotests)
+[📋 Check-lists](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Checklists)<br>
+[✅ Test-cases](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Test_Cases)<br>
+[🐞 Bug-reports](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Bug_reports)<br>
+[🗄️ Data Base (MongoDB, Redis, DBeaver)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Data_Base)<br>
+[🔌 API Postman](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Postman)<br>
+[📱 Mobile Testing Android Studio](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Mobile_testing)<br>
+[📊 Logs and Metrics (Grafana, Kibana)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Logs_and_Metrics)<br>
+[💬 Kafka and Jaeger](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Kafka_Jaeger)<br>
+[🤖🧪 Autotests](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Autotests)
 
 #### ℹ️ Как просматривать
 Нажми на нужную папку, например `Test-cases` — внутри будут файлы и скриншоты.
