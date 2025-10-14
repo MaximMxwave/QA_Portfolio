@@ -10,17 +10,17 @@
 ## 📂 Структура портфолио
 
 [📋 Checklists](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Checklists)<br>
-[✅ Test_Cases](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Test_Cases)<br>
-[🐞 Bug_reports](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Bug_reports)<br>
-[🗄️ Data_Base (MongoDB, Redis, DBeaver)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Data_Base)<br>
+[✅ Test-сases](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Test_Cases)<br>
+[🐞 Bug-reports](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Bug_reports)<br>
+[🗄️ Data Base (MongoDB, Redis, DBeaver)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Data_Base)<br>
 [🔌 API Postman](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Postman)<br>
-[📱 Mobile_Testing (Android Studio)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Mobile_testing)<br>
-[📊 Logs_and_Metrics (Grafana, Kibana)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Logs_and_Metrics)<br>
-[💬 Kafka_Jaeger](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Kafka_Jaeger)<br>
+[📱 Mobile Testing (Android Studio)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Mobile_testing)<br>
+[📊 Logs and Metrics (Grafana, Kibana)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Logs_and_Metrics)<br>
+[💬 Kafka and Jaeger](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Kafka_Jaeger)<br>
 [🤖🧪 Autotests](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Autotests)
 
 #### ℹ️ Как просматривать
-Нажми на нужную папку, например `Test_Cases` — внутри будут файлы и скриншоты.
+Нажми на нужную папку, например `Test-cases` — внутри будут файлы и скриншоты.
 
 
 ## 📸 Скриншоты
