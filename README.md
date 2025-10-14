@@ -14,7 +14,7 @@
 [🐞 Bug-reports](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Test_documentation/Bug_reports)<br>
 [🗄️ Data Base (MongoDB, Redis, DBeaver)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Data_Base)<br>
 [🔌 API Postman](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Postman)<br>
-[📱 Mobile Testing Android Studio](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Mobile_testing)<br>
+[📱 Mobile Testing, Android Studio](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Mobile_testing)<br>
 [📊 Logs and Metrics (Grafana, Kibana)](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Logs_and_Metrics)<br>
 [💬 Kafka and Jaeger](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Kafka_Jaeger)<br>
 [🤖🧪 Autotests](https://github.com/MaximMxwave/QA_Portfolio/tree/main/Autotests)
